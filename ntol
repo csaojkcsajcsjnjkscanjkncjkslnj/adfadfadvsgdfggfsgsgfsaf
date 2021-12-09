@@ -1,4 +1,3 @@
-<?php
 $list = explode("\n",@file_get_contents("forceclose"));
         $ad = count($list)-1;
         $anjing = $list;
